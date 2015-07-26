@@ -1,0 +1,9 @@
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\bin\Debug\CollectionDistribution.exe.config
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\bin\Debug\CollectionDistribution.exe
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\bin\Debug\CollectionDistribution.pdb
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.csprojResolveAssemblyReference.cache
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.Form1.resources
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.Properties.Resources.resources
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.csproj.GenerateResource.Cache
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.exe
+E:\project\snippets\collections\CollectionDistribution\CollectionDistribution\obj\Debug\CollectionDistribution.pdb
